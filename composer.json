@@ -1,6 +1,7 @@
 {
     "name": "gabriel/php-pro",
     "autoload": {
+        "files": ["app/helpers/constante.php"],
         "psr-4": {
             "app\\": "app/"
         }
