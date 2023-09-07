@@ -1,5 +1,7 @@
 <?php 
 
-    echo "teste";
+    require '../vendor/autoload.php';
+
+    echo TESTE;
 
 ?>
