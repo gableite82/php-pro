@@ -1,0 +1,15 @@
+{
+    "name": "gabriel/php-pro",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Leite",
+            "email": "gabrielleite82@hotmail.com"
+        }
+    ],
+    "require": {}
+}
