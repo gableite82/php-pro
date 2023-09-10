@@ -1,5 +1,4 @@
 <?php 
 
-    define('TESTE', 'teste1');
-
+    define('TESTE', 'Teste 1')
 ?>
